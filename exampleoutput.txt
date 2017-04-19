@@ -1,0 +1,13 @@
+BaseXY Constructor called
+DerivedParameter Constructor called
+X: 17 Y: 76
+DerivedParameter Destructor called
+Base Destructor called
+
+Base Constructor called
+Derived Constructor called
+DoubleDerived Constructor called
+DoubleDerived Destructor called
+Derived Destructor called
+Base Destructor called
+
